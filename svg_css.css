@@ -1,0 +1,40 @@
+
+/* -----
+SVG Icons -- facebook, google, youtube, twitter
+----- */
+
+.svg-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: white;
+}
+
+.svg-icon circle {
+  stroke: #4691f6;
+  /*stroke-width: 1;*/
+}
+
+/* -----
+SVG Icons2 -- page3Footer - facebook, google, youtube, twitter
+----- */
+
+.svg-icon2 {
+  width: 20px;
+  height: 20px;
+}
+
+.svg-icon2 path,
+.svg-icon2 polygon,
+.svg-icon2 rect {
+  fill: #313131;
+}
+
+.svg-icon2 circle {
+  stroke: #313131;
+  /*stroke-width: 1;*/
+}
